@@ -1,2 +1,4 @@
-# program-collections
-some of the programs belongs to misc
+python-scripts
+==============
+
+useful python script.
